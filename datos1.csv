@@ -1,0 +1,13 @@
+Genero;Edad;Estatura;Peso;Historia_familiar_sobrepeso;FAVC;FCVC;NCP;CAEC;Fumador;CH2O;SCC;FAF;TUE;CALC;MTRANS
+F;1;1.56;41.7;no;yes;2.967.853;1;Frequently;no;1.131.185;yes;0;0.504176;Sometimes;Public_Transportation
+M;2;1.93;60;no;no;2.596.579;110.548;no;yes;1.490.613;no;0.345684;0.39;no;Bike
+F;1;1.54;80;si;yes;2.967.853;1;Frequently;no;1.131.185;yes;0;0.6378;Sometimes;Public_Transportation
+M;2;1.9;75;no;no;2.596.579;110.548;no;no;1.490.613;no;0.48;0.28;no;Bike
+F;1;1.72;25;no;yes;2.967.853;1;Frequently;no;1.131.185;yes;0;0.4832;no;Public_Transportation
+M;2;1.25;60;si;no;2.596.579;110.548;no;yes;1.490.613;no;0.51;0;no;Bike
+F;1;1.36;67;no;yes;2.967.853;1;Frequently;Yes;1.131.185;no;0.39;0.1983;Sometimes;Public_Transportation
+M;2;1.93;88;no;no;2.596.579;110.548;no;yes;1.490.613;no;0.28;0;no;Bike
+F;1;1.56;76;si;yes;2.967.853;1;Frequently;yes;1.131.185;yes;0;0.64747;Sometimes;Public_Transportation
+M;2;1.93;112;si;no;2.596.579;110.548;no;yes;1.490.613;no;0.39;0;no;Bike
+F;1;1.56;76;no;yes;2.967.853;1;Frequently;no;1.131.185;no;0;0.8948;no;Public_Transportation
+M;2;1.93;56;si;no;2.596.579;110.548;no;yes;1.490.613;no;0.44;0.28;no;Bike
